@@ -162,7 +162,7 @@ Through this project, the following concepts were implemented:
 
 ## Author
 
-Shaik Rizwan
+Shaik Rizwan basha
 
 Embedded Systems and IoT Enthusiast
 
