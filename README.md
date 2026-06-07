@@ -48,10 +48,10 @@ The project showcases ESP32 Wi-Fi connectivity, cloud communication, GPIO contro
 
 | Room        | LED Color | GPIO Pin | Virtual Pin |
 | ----------- | --------- | -------- | ----------- |
-| Living Room | White     | GPIO2    | V0          |
-| Bathroom    | Red       | GPIO4    | V1          |
-| Kitchen     | Green     | GPIO5    | V2          |
-| Bedroom     | Blue      | GPIO18   | V3          |
+| Living Room | White     | GPIO13   | V0          |
+| Bathroom    | Red       | GPIO12    | V1         |
+| Kitchen     | Green     | GPIO14   | V2          |
+| Bedroom     | Blue      | GPIO27  | V3           |
 
 ---
 
