@@ -1,4 +1,4 @@
-# ESP32 Home Automation Prototype Using Blynk IoT
+# ESP32 Home Automation Prototype Using Blynk IOT
 
 ## Overview
 
